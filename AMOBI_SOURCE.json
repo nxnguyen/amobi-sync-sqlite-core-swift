@@ -1,0 +1,13 @@
+{
+  "base": "0302873677f07039d5e2fc4d1aefdf093e8e6292",
+  "local": "sqlite_core_swift",
+  "maintenance": "Pinned Amobi source tag; default branch remains an upstream tracking branch.",
+  "repo": "amobi-sync-sqlite-core-swift",
+  "repository": "https://github.com/nxnguyen/amobi-sync-sqlite-core-swift",
+  "source_path": "clients/sqlite_core_swift",
+  "source_snapshot": "ff124c37acd92dcb94efb9a9da38b9c3c38f56db",
+  "tag": "amobi-0.5.3.1",
+  "upstream": "powersync-sqlite-core-swift",
+  "upstream_repository": "https://github.com/powersync-ja/powersync-sqlite-core-swift",
+  "upstream_revision": "0302873677f07039d5e2fc4d1aefdf093e8e6292"
+}
